@@ -1,4 +1,4 @@
-train,id,open_text,Kampagne specifikt,Billige billetter ,Afslappende/ behageligt/ nem transport,Tag toget,Ved ikke,Andet,Plads til alle ,Klima/bæredygtighed/grøn omstilling,Alternativ transport
+train,id,open_text,kampagne_specifikt,billige_billetter,afslappende_behageligt_nem_transport,tag_toget,ved_ikke,andet,plads_til_alle,klima_baeredygtighed_gron_omstilling,alternativ_transport
 test,1,At de har 3 tilbud til folk over 65,1,0,0,0,0,0,0,0,0
 test,3,"Der er ikke mindre end tre forskellige måder at købe billet på, hvis man er fyldt 65. Det vil sikkert forvirre så mange, at de ikke lægger mærke til at billetterne er blevet dyrere.",1,0,0,0,0,0,0,0,0
 test,10,ønsker at få flere kunder,0,0,0,1,0,0,0,0,0

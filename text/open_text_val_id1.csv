@@ -1,4 +1,4 @@
-train,id,open_text,Kampagne specifikt,Billige billetter ,Afslappende/ behageligt/ nem transport,Tag toget,Ved ikke,Andet,Plads til alle ,Klima/bæredygtighed/grøn omstilling,Alternativ transport
+train,id,open_text,kampagne_specifikt,billige_billetter,afslappende_behageligt_nem_transport,tag_toget,ved_ikke,andet,plads_til_alle,klima_baeredygtighed_gron_omstilling,alternativ_transport
 validate,2,Differentierede billetmuligheder for ældre brugere,1,0,0,0,0,0,0,0,0
 validate,4,At man som pensionist kan vælge mellem flere billige alternativer,1,0,0,0,0,0,0,0,0
 validate,9,"At der er 3 forskellige billettyper at vælge imellem, hvis man er over 65, som hver især giver gode rabatter",1,0,0,0,0,0,0,0,0
